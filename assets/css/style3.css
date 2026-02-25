@@ -2670,8 +2670,8 @@ figcaption {
 }
 
 .btn-primary:hover {
+  background-color: var(--primary-dark);
   color: var(--neutral--100);
-  background-color: #e91a1a;
   transform: translate3d(0, -3px, .01px);
 }
 
@@ -3620,6 +3620,10 @@ figcaption {
 
 .section.pd-bottom-0 {
   padding-bottom: 0;
+}
+
+.section.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
 }
 
 .section.hero-bg-image-2 {
@@ -4883,7 +4887,7 @@ figcaption {
 
 .flex.align-center.contact-link {
   text-decoration: none;
-  transition: none;
+  transition: color .3s;
 }
 
 .flex.align-center.contact-link:hover {
