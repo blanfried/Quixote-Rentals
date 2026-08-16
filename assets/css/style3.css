@@ -6005,6 +6005,1614 @@ figcaption {
   margin-right: 14px;
 }
 
+.section-airbnb, .section-airbnb.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-airbnb.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-airbnb.top {
+  padding-top: 180px;
+}
+
+.section-airbnb.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-airbnb.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-airbnb.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-airbnb.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-airbnb.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-airbnb.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-airbnb.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-airbnb.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-airbnb.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-airbnb.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-airbnb.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-airbnb.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-airbnb.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-airbnb.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-airbnb.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-airbnb.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-airbnb.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-airbnb.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-airbnb.less-top {
+  padding-top: 140px;
+}
+
+.section-airbnb.much-less-top {
+  padding-top: 60px;
+}
+
+.section-airbnb.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-airbnb.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-zillow, .section-zillow.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-zillow.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-zillow.top {
+  padding-top: 180px;
+}
+
+.section-zillow.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-zillow.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-zillow.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-zillow.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-zillow.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-zillow.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-zillow.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-zillow.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-zillow.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-zillow.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-zillow.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-zillow.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-zillow.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-zillow.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-zillow.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-zillow.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-zillow.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-zillow.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-zillow.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-zillow.less-top {
+  padding-top: 140px;
+}
+
+.section-zillow.much-less-top {
+  padding-top: 60px;
+}
+
+.section-zillow.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-zillow.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-page-view, .section-airbnb-page-view.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-airbnb-page-view.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-airbnb-page-view.top {
+  padding-top: 180px;
+}
+
+.section-airbnb-page-view.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-airbnb-page-view.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-airbnb-page-view.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-airbnb-page-view.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-airbnb-page-view.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-page-view.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-airbnb-page-view.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-airbnb-page-view.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-airbnb-page-view.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-airbnb-page-view.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-airbnb-page-view.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-airbnb-page-view.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-airbnb-page-view.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-airbnb-page-view.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-page-view.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-airbnb-page-view.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-airbnb-page-view.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-airbnb-page-view.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-page-view.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-page-view.less-top {
+  padding-top: 140px;
+}
+
+.section-airbnb-page-view.much-less-top {
+  padding-top: 60px;
+}
+
+.section-airbnb-page-view.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-page-view.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-page-view, .section-zillow-page-view.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-zillow-page-view.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-zillow-page-view.top {
+  padding-top: 180px;
+}
+
+.section-zillow-page-view.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-zillow-page-view.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-zillow-page-view.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-zillow-page-view.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-zillow-page-view.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-zillow-page-view.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-zillow-page-view.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-zillow-page-view.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-zillow-page-view.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-zillow-page-view.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-zillow-page-view.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-zillow-page-view.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-zillow-page-view.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-zillow-page-view.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-page-view.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-zillow-page-view.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-zillow-page-view.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-zillow-page-view.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-zillow-page-view.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-zillow-page-view.less-top {
+  padding-top: 140px;
+}
+
+.section-zillow-page-view.much-less-top {
+  padding-top: 60px;
+}
+
+.section-zillow-page-view.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-zillow-page-view.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-farm, .section-airbnb-farm.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-airbnb-farm.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-airbnb-farm.top {
+  padding-top: 180px;
+}
+
+.section-airbnb-farm.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-airbnb-farm.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-airbnb-farm.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-airbnb-farm.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-airbnb-farm.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-farm.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-airbnb-farm.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-airbnb-farm.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-airbnb-farm.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-airbnb-farm.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-airbnb-farm.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-airbnb-farm.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-airbnb-farm.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-airbnb-farm.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-farm.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-airbnb-farm.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-airbnb-farm.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-airbnb-farm.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-farm.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-farm.less-top {
+  padding-top: 140px;
+}
+
+.section-airbnb-farm.much-less-top {
+  padding-top: 60px;
+}
+
+.section-airbnb-farm.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-farm.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-farm, .section-zillow-farm.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-zillow-farm.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-zillow-farm.top {
+  padding-top: 180px;
+}
+
+.section-zillow-farm.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-zillow-farm.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-zillow-farm.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-zillow-farm.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-zillow-farm.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-zillow-farm.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-zillow-farm.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-zillow-farm.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-zillow-farm.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-zillow-farm.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-zillow-farm.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-zillow-farm.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-zillow-farm.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-zillow-farm.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-farm.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-zillow-farm.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-zillow-farm.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-zillow-farm.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-zillow-farm.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-zillow-farm.less-top {
+  padding-top: 140px;
+}
+
+.section-zillow-farm.much-less-top {
+  padding-top: 60px;
+}
+
+.section-zillow-farm.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-zillow-farm.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-beach, .section-airbnb-beach.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-airbnb-beach.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-airbnb-beach.top {
+  padding-top: 180px;
+}
+
+.section-airbnb-beach.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-airbnb-beach.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-airbnb-beach.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-airbnb-beach.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-airbnb-beach.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-beach.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-airbnb-beach.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-airbnb-beach.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-airbnb-beach.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-airbnb-beach.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-airbnb-beach.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-airbnb-beach.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-airbnb-beach.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-airbnb-beach.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-beach.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-airbnb-beach.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-airbnb-beach.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-airbnb-beach.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-beach.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-beach.less-top {
+  padding-top: 140px;
+}
+
+.section-airbnb-beach.much-less-top {
+  padding-top: 60px;
+}
+
+.section-airbnb-beach.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-beach.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-beach, .section-zillow-beach.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-zillow-beach.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-zillow-beach.top {
+  padding-top: 180px;
+}
+
+.section-zillow-beach.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-zillow-beach.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-zillow-beach.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-zillow-beach.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-zillow-beach.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-zillow-beach.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-zillow-beach.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-zillow-beach.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-zillow-beach.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-zillow-beach.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-zillow-beach.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-zillow-beach.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-zillow-beach.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-zillow-beach.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-beach.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-zillow-beach.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-zillow-beach.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-zillow-beach.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-zillow-beach.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-zillow-beach.less-top {
+  padding-top: 140px;
+}
+
+.section-zillow-beach.much-less-top {
+  padding-top: 60px;
+}
+
+.section-zillow-beach.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-zillow-beach.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-desert, .section-airbnb-desert.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-airbnb-desert.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-airbnb-desert.top {
+  padding-top: 180px;
+}
+
+.section-airbnb-desert.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-airbnb-desert.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-airbnb-desert.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-airbnb-desert.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-airbnb-desert.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-desert.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-airbnb-desert.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-airbnb-desert.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-airbnb-desert.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-airbnb-desert.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-airbnb-desert.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-airbnb-desert.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-airbnb-desert.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-airbnb-desert.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-desert.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-airbnb-desert.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-airbnb-desert.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-airbnb-desert.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-desert.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-desert.less-top {
+  padding-top: 140px;
+}
+
+.section-airbnb-desert.much-less-top {
+  padding-top: 60px;
+}
+
+.section-airbnb-desert.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-desert.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-desert, .section-zillow-desert.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-zillow-desert.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-zillow-desert.top {
+  padding-top: 180px;
+}
+
+.section-zillow-desert.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-zillow-desert.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-zillow-desert.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-zillow-desert.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-zillow-desert.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-zillow-desert.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-zillow-desert.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-zillow-desert.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-zillow-desert.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-zillow-desert.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-zillow-desert.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-zillow-desert.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-zillow-desert.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-zillow-desert.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-desert.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-zillow-desert.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-zillow-desert.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-zillow-desert.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-zillow-desert.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-zillow-desert.less-top {
+  padding-top: 140px;
+}
+
+.section-zillow-desert.much-less-top {
+  padding-top: 60px;
+}
+
+.section-zillow-desert.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-zillow-desert.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-contact, .section-airbnb-contact.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-airbnb-contact.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-airbnb-contact.top {
+  padding-top: 180px;
+}
+
+.section-airbnb-contact.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-airbnb-contact.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-airbnb-contact.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-airbnb-contact.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-airbnb-contact.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-contact.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-airbnb-contact.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-airbnb-contact.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-airbnb-contact.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-airbnb-contact.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-airbnb-contact.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-airbnb-contact.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-airbnb-contact.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-airbnb-contact.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-airbnb-contact.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-airbnb-contact.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-airbnb-contact.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-airbnb-contact.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-contact.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-airbnb-contact.less-top {
+  padding-top: 140px;
+}
+
+.section-airbnb-contact.much-less-top {
+  padding-top: 60px;
+}
+
+.section-airbnb-contact.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-airbnb-contact.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-contact, .section-zillow-contact.small {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-zillow-contact.bg-neutral-200 {
+  background-color: #0000;
+}
+
+.section-zillow-contact.top {
+  padding-top: 180px;
+}
+
+.section-zillow-contact.top.pd-bottom-150px {
+  padding-bottom: 150px;
+}
+
+.section-zillow-contact.template-pages-hero {
+  background-color: var(--neutral--800);
+  padding-top: 214px;
+  padding-bottom: 148px;
+}
+
+.section-zillow-contact.hero-bg-image-1 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/New-Quixote-LP-Photo.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 332px;
+  padding-bottom: 318px;
+}
+
+.section-zillow-contact.pd-bottom-0 {
+  padding-bottom: 0;
+}
+
+.section-zillow-contact.pd-bottom-0.overflow-hidden {
+  padding-bottom: 100px;
+}
+
+.section-zillow-contact.hero-bg-image-2 {
+  background-image: linear-gradient(#0006 4%, #0009 64%, #000), url('../images/about-hero-bg-image-rental-webflow-ecommerce-template.jpg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 246px;
+  padding-bottom: 186px;
+}
+
+.section-zillow-contact.pd-top-150px {
+  padding-top: 150px;
+}
+
+.section-zillow-contact.hero-bg-image-3 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Contactimg.avif');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 252px;
+  padding-bottom: 406px;
+}
+
+.section-zillow-contact.pd-top-0 {
+  padding-top: 0;
+}
+
+.section-zillow-contact.hero-bg-image-4 {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Farm-Stays-BG.jpeg');
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+  padding-top: 300px;
+  padding-bottom: 260px;
+}
+
+.section-zillow-contact.hero-bg-image-4.beach {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Beach-Stays-BG.jpeg');
+}
+
+.section-zillow-contact.hero-bg-image-4.main {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/EP30.jpg');
+}
+
+.section-zillow-contact.hero-bg-image-4.desert {
+  background-image: linear-gradient(#0006 4%, #00000080 64%, #000), url('../images/Desert-Stays-BG.jpeg');
+}
+
+.section-zillow-contact.medium {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.section-zillow-contact.medium.pd-top-80px {
+  padding-top: 80px;
+}
+
+.section-zillow-contact.pd-top-100px {
+  padding-top: 100px;
+}
+
+.section-zillow-contact.hero-page {
+  background-image: linear-gradient(to top, var(--accent--primary-1) 50%, white 50%);
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+.section-zillow-contact.pd-120px {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.section-zillow-contact.cta-home-pages {
+  background-image: linear-gradient(to bottom, var(--neutral--200) 40%, white 40%);
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.section-zillow-contact.less-top {
+  padding-top: 140px;
+}
+
+.section-zillow-contact.much-less-top {
+  padding-top: 60px;
+}
+
+.section-zillow-contact.much-less-top.less-bottom {
+  padding-bottom: 100px;
+}
+
+.section-zillow-contact.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+}
+
 @media screen and (min-width: 1440px) {
   .grid-2-columns.style---styleguide-wrapper {
     grid-template-columns: .3fr 1fr;
@@ -6155,6 +7763,11 @@ figcaption {
   .display-5.text-spacing-0em.text-color-light.maxw-title-on-banner {
     font-size: 88px;
   }
+
+  .section-airbnb.hero-bg-image-4, .section-zillow.hero-bg-image-4, .section-airbnb-page-view.hero-bg-image-4, .section-zillow-page-view.hero-bg-image-4, .section-airbnb-farm.hero-bg-image-4, .section-zillow-farm.hero-bg-image-4, .section-airbnb-beach.hero-bg-image-4, .section-zillow-beach.hero-bg-image-4, .section-airbnb-desert.hero-bg-image-4, .section-zillow-desert.hero-bg-image-4, .section-airbnb-contact.hero-bg-image-4, .section-zillow-contact.hero-bg-image-4 {
+    padding-top: 400px;
+    padding-bottom: 350px;
+  }
 }
 
 @media screen and (min-width: 1920px) {
@@ -6209,6 +7822,11 @@ figcaption {
 
   .display-5.text-spacing-0em.text-color-light.maxw-title-on-banner {
     font-size: 150px;
+  }
+
+  .section-airbnb.hero-bg-image-4, .section-zillow.hero-bg-image-4, .section-airbnb-page-view.hero-bg-image-4, .section-zillow-page-view.hero-bg-image-4, .section-airbnb-farm.hero-bg-image-4, .section-zillow-farm.hero-bg-image-4, .section-airbnb-beach.hero-bg-image-4, .section-zillow-beach.hero-bg-image-4, .section-airbnb-desert.hero-bg-image-4, .section-zillow-desert.hero-bg-image-4, .section-airbnb-contact.hero-bg-image-4, .section-zillow-contact.hero-bg-image-4 {
+    padding-top: 500px;
+    padding-bottom: 450px;
   }
 }
 
@@ -6836,6 +8454,462 @@ figcaption {
 
   .card-5.rooms.width-100-tablet {
     max-width: 100%;
+  }
+
+  .section-airbnb {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-airbnb.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-airbnb.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-airbnb.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-airbnb.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-zillow.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-zillow.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-zillow.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-zillow.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-page-view {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-airbnb-page-view.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-page-view.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-airbnb-page-view.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-airbnb-page-view.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-airbnb-page-view.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-page-view.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-page-view.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-page-view {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-zillow-page-view.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-page-view.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-zillow-page-view.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-zillow-page-view.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-zillow-page-view.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-page-view.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-page-view.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-farm {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-airbnb-farm.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-farm.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-airbnb-farm.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-airbnb-farm.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-airbnb-farm.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-farm.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-farm.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-farm {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-zillow-farm.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-farm.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-zillow-farm.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-zillow-farm.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-zillow-farm.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-farm.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-farm.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-beach {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-airbnb-beach.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-beach.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-airbnb-beach.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-airbnb-beach.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-airbnb-beach.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-beach.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-beach.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-beach {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-zillow-beach.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-beach.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-zillow-beach.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-zillow-beach.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-zillow-beach.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-beach.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-beach.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-desert {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-airbnb-desert.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-desert.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-airbnb-desert.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-airbnb-desert.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-airbnb-desert.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-desert.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-desert.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-desert {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-zillow-desert.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-desert.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-zillow-desert.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-zillow-desert.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-zillow-desert.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-desert.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-desert.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-contact {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-airbnb-contact.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-contact.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-airbnb-contact.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-airbnb-contact.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-airbnb-contact.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-contact.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-contact.cta-home-pages {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-contact {
+    padding-top: 118px;
+    padding-bottom: 118px;
+  }
+
+  .section-zillow-contact.small {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-contact.pd-top-150px {
+    padding-top: 118px;
+  }
+
+  .section-zillow-contact.medium {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+
+  .section-zillow-contact.pd-top-100px {
+    padding-top: 80px;
+  }
+
+  .section-zillow-contact.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 45%, white 45%);
+    padding-top: 180px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-contact.pd-120px {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-contact.cta-home-pages {
+    padding-bottom: 100px;
   }
 }
 
@@ -7752,6 +9826,726 @@ figcaption {
     padding-top: 16px;
     padding-bottom: 16px;
   }
+
+  .section-airbnb {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb.top {
+    padding-top: 150px;
+  }
+
+  .section-airbnb.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-airbnb.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-airbnb.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-airbnb.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-airbnb.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb.medium.pd-top-80px, .section-airbnb.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-airbnb.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-zillow {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow.top {
+    padding-top: 150px;
+  }
+
+  .section-zillow.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-zillow.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-zillow.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-zillow.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-zillow.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow.medium.pd-top-80px, .section-zillow.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-zillow.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-airbnb-page-view {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-page-view.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-page-view.top {
+    padding-top: 150px;
+  }
+
+  .section-airbnb-page-view.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-page-view.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-airbnb-page-view.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-page-view.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-page-view.medium.pd-top-80px, .section-airbnb-page-view.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-airbnb-page-view.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-zillow-page-view {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-page-view.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-page-view.top {
+    padding-top: 150px;
+  }
+
+  .section-zillow-page-view.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-page-view.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-zillow-page-view.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-page-view.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-page-view.medium.pd-top-80px, .section-zillow-page-view.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-zillow-page-view.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-airbnb-farm {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-farm.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-farm.top {
+    padding-top: 150px;
+  }
+
+  .section-airbnb-farm.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-farm.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-airbnb-farm.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-farm.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-farm.medium.pd-top-80px, .section-airbnb-farm.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-airbnb-farm.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-zillow-farm {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-farm.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-farm.top {
+    padding-top: 150px;
+  }
+
+  .section-zillow-farm.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-farm.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-zillow-farm.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-farm.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-zillow-farm.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-zillow-farm.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-zillow-farm.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-farm.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-farm.medium.pd-top-80px, .section-zillow-farm.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-zillow-farm.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-airbnb-beach {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-beach.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-beach.top {
+    padding-top: 150px;
+  }
+
+  .section-airbnb-beach.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-beach.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-airbnb-beach.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-beach.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-beach.medium.pd-top-80px, .section-airbnb-beach.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-airbnb-beach.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-zillow-beach {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-beach.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-beach.top {
+    padding-top: 150px;
+  }
+
+  .section-zillow-beach.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-beach.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-zillow-beach.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-beach.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-zillow-beach.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-zillow-beach.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-zillow-beach.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-beach.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-beach.medium.pd-top-80px, .section-zillow-beach.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-zillow-beach.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-airbnb-desert {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-desert.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-desert.top {
+    padding-top: 150px;
+  }
+
+  .section-airbnb-desert.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-desert.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-airbnb-desert.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-desert.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-desert.medium.pd-top-80px, .section-airbnb-desert.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-airbnb-desert.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-zillow-desert {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-desert.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-desert.top {
+    padding-top: 150px;
+  }
+
+  .section-zillow-desert.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-desert.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-zillow-desert.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-desert.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-zillow-desert.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-zillow-desert.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-zillow-desert.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-desert.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-desert.medium.pd-top-80px, .section-zillow-desert.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-zillow-desert.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-airbnb-contact {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-contact.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-contact.top {
+    padding-top: 150px;
+  }
+
+  .section-airbnb-contact.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-contact.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-airbnb-contact.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-airbnb-contact.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-airbnb-contact.medium.pd-top-80px, .section-airbnb-contact.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-airbnb-contact.hero-page {
+    padding-top: 160px;
+  }
+
+  .section-zillow-contact {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-contact.small {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-contact.top {
+    padding-top: 150px;
+  }
+
+  .section-zillow-contact.top.pd-bottom-150px {
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-contact.template-pages-hero {
+    padding-top: 184px;
+    padding-bottom: 116px;
+  }
+
+  .section-zillow-contact.hero-bg-image-1 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-contact.hero-bg-image-2 {
+    padding-top: 182px;
+    padding-bottom: 120px;
+  }
+
+  .section-zillow-contact.pd-top-150px {
+    padding-top: 100px;
+  }
+
+  .section-zillow-contact.hero-bg-image-3 {
+    padding-top: 182px;
+    padding-bottom: 319px;
+  }
+
+  .section-zillow-contact.hero-bg-image-4 {
+    padding-top: 182px;
+    padding-bottom: 140px;
+  }
+
+  .section-zillow-contact.medium {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .section-zillow-contact.medium.pd-top-80px, .section-zillow-contact.pd-top-100px {
+    padding-top: 72px;
+  }
+
+  .section-zillow-contact.hero-page {
+    padding-top: 160px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -8631,6 +11425,822 @@ figcaption {
   .badge-secondary-5.product-badge {
     justify-content: center;
   }
+
+  .section-airbnb {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-airbnb.top {
+    padding-top: 126px;
+  }
+
+  .section-airbnb.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-airbnb.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-airbnb.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb.medium.pd-top-80px, .section-airbnb.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-airbnb.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-zillow {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-zillow.top {
+    padding-top: 126px;
+  }
+
+  .section-zillow.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-zillow.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-zillow.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow.medium.pd-top-80px, .section-zillow.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-zillow.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-airbnb-page-view {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-page-view.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-airbnb-page-view.top {
+    padding-top: 126px;
+  }
+
+  .section-airbnb-page-view.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-airbnb-page-view.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-page-view.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-page-view.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-page-view.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-page-view.medium.pd-top-80px, .section-airbnb-page-view.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-airbnb-page-view.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-zillow-page-view {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-page-view.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-zillow-page-view.top {
+    padding-top: 126px;
+  }
+
+  .section-zillow-page-view.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-zillow-page-view.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-page-view.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-page-view.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-page-view.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-page-view.medium.pd-top-80px, .section-zillow-page-view.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-zillow-page-view.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-airbnb-farm {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-farm.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-airbnb-farm.top {
+    padding-top: 126px;
+  }
+
+  .section-airbnb-farm.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-airbnb-farm.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-farm.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-farm.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-farm.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-farm.medium.pd-top-80px, .section-airbnb-farm.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-airbnb-farm.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-zillow-farm {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-farm.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-zillow-farm.top {
+    padding-top: 126px;
+  }
+
+  .section-zillow-farm.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-zillow-farm.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-farm.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-farm.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-farm.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-zillow-farm.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-farm.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-farm.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-farm.medium.pd-top-80px, .section-zillow-farm.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-zillow-farm.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-airbnb-beach {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-beach.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-airbnb-beach.top {
+    padding-top: 126px;
+  }
+
+  .section-airbnb-beach.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-airbnb-beach.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-beach.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-beach.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-beach.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-beach.medium.pd-top-80px, .section-airbnb-beach.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-airbnb-beach.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-zillow-beach {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-beach.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-zillow-beach.top {
+    padding-top: 126px;
+  }
+
+  .section-zillow-beach.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-zillow-beach.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-beach.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-beach.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-beach.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-zillow-beach.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-beach.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-beach.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-beach.medium.pd-top-80px, .section-zillow-beach.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-zillow-beach.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-airbnb-desert {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-desert.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-airbnb-desert.top {
+    padding-top: 126px;
+  }
+
+  .section-airbnb-desert.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-airbnb-desert.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-desert.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-desert.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-desert.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-desert.medium.pd-top-80px, .section-airbnb-desert.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-airbnb-desert.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-zillow-desert {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-desert.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-zillow-desert.top {
+    padding-top: 126px;
+  }
+
+  .section-zillow-desert.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-zillow-desert.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-desert.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-desert.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-desert.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-zillow-desert.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-desert.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-desert.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-desert.medium.pd-top-80px, .section-zillow-desert.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-zillow-desert.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-airbnb-contact {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-contact.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-airbnb-contact.top {
+    padding-top: 126px;
+  }
+
+  .section-airbnb-contact.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-airbnb-contact.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-airbnb-contact.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-contact.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-airbnb-contact.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-airbnb-contact.medium.pd-top-80px, .section-airbnb-contact.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-airbnb-contact.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
+
+  .section-zillow-contact {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-contact.small {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .section-zillow-contact.top {
+    padding-top: 126px;
+  }
+
+  .section-zillow-contact.top.pd-bottom-150px {
+    padding-bottom: 92px;
+  }
+
+  .section-zillow-contact.template-pages-hero {
+    padding-top: 168px;
+    padding-bottom: 100px;
+  }
+
+  .section-zillow-contact.hero-bg-image-1 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-contact.hero-bg-image-2 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 96px;
+  }
+
+  .section-zillow-contact.pd-top-150px {
+    padding-top: 96px;
+  }
+
+  .section-zillow-contact.hero-bg-image-3 {
+    background-position: 0 0, 50%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-contact.hero-bg-image-4 {
+    background-position: 0 0, 66%;
+    background-size: auto, cover;
+    padding-top: 164px;
+    padding-bottom: 164px;
+  }
+
+  .section-zillow-contact.medium {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
+  .section-zillow-contact.medium.pd-top-80px, .section-zillow-contact.pd-top-100px {
+    padding-top: 64px;
+  }
+
+  .section-zillow-contact.hero-page {
+    background-image: linear-gradient(to top, var(--accent--primary-1) 35%, white 35%);
+  }
 }
 
 #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ecae-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ecb5-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ecbc-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ecda-b9b93bb6, #w-node-_221fe205-a698-657a-cef0-782ab11b01f2-b9b93bb6, #w-node-a27c0992-1236-ee56-de72-056155a265b8-b9b93bb6, #w-node-ac177286-9ee9-a581-dbf6-5938c4dbe88e-b9b93bb6, #w-node-b98e91cc-552f-1065-7aff-5e69ebfe9440-b9b93bb6, #w-node-_02541e58-9324-b96b-1588-cde7bada0aed-b9b93bb6, #w-node-_4a424bf9-f95f-ca02-ed26-8763e7e8421d-b9b93bb6, #w-node-fe7c329d-9677-2cba-adf5-166e6a4b7b98-b9b93bb6, #w-node-_69898955-40ec-7b54-8cb3-7e84b4831c33-b9b93bb6, #w-node-_4c7d2bac-8dc0-ba86-d597-2ae78f3f1c82-b9b93bb6, #w-node-fef41bbf-32be-4663-a888-be1e10c1d2b8-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed56-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed5d-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed60-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed62-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed6a-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed77-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed7a-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed7c-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed84-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed8b-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed90-b9b93bb6, #w-node-d9773b46-e5ea-7ac2-a405-13c341e4ed9a-b9b93bb6 {
@@ -8665,7 +12275,7 @@ figcaption {
   place-self: stretch stretch;
 }
 
-#w-node-_184bc8a8-eeb8-bcb1-a89b-3f0de9ae8a08-b9b93bdc {
+#w-node-_3f03e410-4c35-0f77-315c-47aaf68efcba-f68efcb5, #w-node-f607baa3-0ab0-5e79-58ad-c2ef7a71b2d1-7a71b2cc {
   justify-self: end;
 }
 
@@ -8764,7 +12374,7 @@ figcaption {
   align-self: stretch;
 }
 
-#w-node-_8451cd72-af71-5c7c-c639-3d516523891c-b9b93c93, #w-node-_82ed75cb-c0a8-274f-ef11-d74020c1c7f1-b9b93c93, #w-node-bb9da61d-008e-0000-c8d0-35f132b142be-b9b93c93, #w-node-caacd820-9fe5-1ddd-77a7-99cde25e1199-b9b93c93, #w-node-_52a4084a-baf7-2953-cbca-09ab1909739c-b9b93c93, #w-node-_2f1757b4-f9a2-95b3-7368-71a2a4d63dc3-b9b93c93, #w-node-b8611749-7243-45be-3984-26f061935d04-b9b93c93, #w-node-bb45c6c3-0218-cee8-7f85-e55315e7da3c-b9b93c93, #w-node-b655f9d6-f39f-0962-a444-d1e878af8d32-b9b93c93, #w-node-_4acbbdd2-f3bb-71fd-2a94-27f6ed76ba7d-b9b93c93, #w-node-fb40a4c4-7b5e-c833-eef5-5f2187642806-b9b93c93, #w-node-_73f37880-b7a7-cb4a-004a-a6ee4fdcd194-b9b93c93, #w-node-f330c5c1-ccb6-fc20-c03d-3d1dba886217-b9b93c93, #w-node-_615e9147-4cf5-5520-4a4b-6da977f0c31b-b9b93c93, #w-node-b6b12f81-f663-1b12-9de1-fb0c5b6f9b6b-b9b93c93, #w-node-_303cd258-6c61-3efe-f86e-27e7205f5913-b9b93c93, #w-node-_10b5fbfc-879e-47ca-c66a-1ddb02cca99c-b9b93c93, #w-node-cc6573fc-37d3-b75c-f582-7b84f395976e-b9b93c93, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-b9b93c93, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-b9b93c93 {
+#w-node-_8451cd72-af71-5c7c-c639-3d516523891c-b9b93c93, #w-node-_82ed75cb-c0a8-274f-ef11-d74020c1c7f1-b9b93c93, #w-node-bb9da61d-008e-0000-c8d0-35f132b142be-b9b93c93, #w-node-caacd820-9fe5-1ddd-77a7-99cde25e1199-b9b93c93, #w-node-_52a4084a-baf7-2953-cbca-09ab1909739c-b9b93c93, #w-node-_2f1757b4-f9a2-95b3-7368-71a2a4d63dc3-b9b93c93, #w-node-b8611749-7243-45be-3984-26f061935d04-b9b93c93, #w-node-bb45c6c3-0218-cee8-7f85-e55315e7da3c-b9b93c93, #w-node-b655f9d6-f39f-0962-a444-d1e878af8d32-b9b93c93, #w-node-_4acbbdd2-f3bb-71fd-2a94-27f6ed76ba7d-b9b93c93, #w-node-fb40a4c4-7b5e-c833-eef5-5f2187642806-b9b93c93, #w-node-_73f37880-b7a7-cb4a-004a-a6ee4fdcd194-b9b93c93, #w-node-f330c5c1-ccb6-fc20-c03d-3d1dba886217-b9b93c93, #w-node-_615e9147-4cf5-5520-4a4b-6da977f0c31b-b9b93c93, #w-node-b6b12f81-f663-1b12-9de1-fb0c5b6f9b6b-b9b93c93, #w-node-_303cd258-6c61-3efe-f86e-27e7205f5913-b9b93c93, #w-node-_10b5fbfc-879e-47ca-c66a-1ddb02cca99c-b9b93c93, #w-node-cc6573fc-37d3-b75c-f582-7b84f395976e-b9b93c93, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-b9b93c93, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266eee4-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266eeff-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266ef1a-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266ef35-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266ef50-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266ef6b-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266ef86-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266efa1-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266efbc-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266efd7-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266eff2-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f00d-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f028-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f043-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f05e-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f079-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f094-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f0af-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f0ca-b9b93c93, #w-node-f22a1432-0a34-6946-6194-bce85266f0e5-b9b93c93 {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -8780,7 +12390,7 @@ figcaption {
   place-self: center end;
 }
 
-#w-node-_18ee27e7-4162-5d3b-3ae6-8384ffc9cf77-b9b93ca9, #w-node-b655f9d6-f39f-0962-a444-d1e878af8d32-ac9aeaee, #w-node-_4acbbdd2-f3bb-71fd-2a94-27f6ed76ba7d-ac9aeaee, #w-node-fb40a4c4-7b5e-c833-eef5-5f2187642806-ac9aeaee, #w-node-_73f37880-b7a7-cb4a-004a-a6ee4fdcd194-ac9aeaee, #w-node-_615e9147-4cf5-5520-4a4b-6da977f0c31b-ac9aeaee, #w-node-b6b12f81-f663-1b12-9de1-fb0c5b6f9b6b-ac9aeaee, #w-node-cc6573fc-37d3-b75c-f582-7b84f395976e-ac9aeaee, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-ac9aeaee, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-ac9aeaee, #w-node-_82ed75cb-c0a8-274f-ef11-d74020c1c7f1-fcbdb9e9, #w-node-b8611749-7243-45be-3984-26f061935d04-fcbdb9e9, #w-node-bb45c6c3-0218-cee8-7f85-e55315e7da3c-fcbdb9e9, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-fcbdb9e9, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-fcbdb9e9, #w-node-_8451cd72-af71-5c7c-c639-3d516523891c-90905d57, #w-node-bb9da61d-008e-0000-c8d0-35f132b142be-90905d57, #w-node-caacd820-9fe5-1ddd-77a7-99cde25e1199-90905d57, #w-node-_52a4084a-baf7-2953-cbca-09ab1909739c-90905d57, #w-node-_2f1757b4-f9a2-95b3-7368-71a2a4d63dc3-90905d57, #w-node-f330c5c1-ccb6-fc20-c03d-3d1dba886217-90905d57, #w-node-_303cd258-6c61-3efe-f86e-27e7205f5913-90905d57, #w-node-_10b5fbfc-879e-47ca-c66a-1ddb02cca99c-90905d57, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-90905d57, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-90905d57 {
+#w-node-_18ee27e7-4162-5d3b-3ae6-8384ffc9cf77-b9b93ca9, #w-node-b655f9d6-f39f-0962-a444-d1e878af8d32-ac9aeaee, #w-node-_4acbbdd2-f3bb-71fd-2a94-27f6ed76ba7d-ac9aeaee, #w-node-fb40a4c4-7b5e-c833-eef5-5f2187642806-ac9aeaee, #w-node-_73f37880-b7a7-cb4a-004a-a6ee4fdcd194-ac9aeaee, #w-node-_615e9147-4cf5-5520-4a4b-6da977f0c31b-ac9aeaee, #w-node-b6b12f81-f663-1b12-9de1-fb0c5b6f9b6b-ac9aeaee, #w-node-cc6573fc-37d3-b75c-f582-7b84f395976e-ac9aeaee, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-ac9aeaee, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37cad-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37cc8-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37ce3-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37cfe-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37d19-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37d34-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37d4f-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37d6a-ac9aeaee, #w-node-_16c946af-8d65-07fe-f08f-55c58fb37d85-ac9aeaee, #w-node-_82ed75cb-c0a8-274f-ef11-d74020c1c7f1-fcbdb9e9, #w-node-b8611749-7243-45be-3984-26f061935d04-fcbdb9e9, #w-node-bb45c6c3-0218-cee8-7f85-e55315e7da3c-fcbdb9e9, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-fcbdb9e9, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-fcbdb9e9, #w-node-_0facc765-961c-7ad5-5be5-8e747e59bea4-fcbdb9e9, #w-node-_0facc765-961c-7ad5-5be5-8e747e59bebf-fcbdb9e9, #w-node-_0facc765-961c-7ad5-5be5-8e747e59beda-fcbdb9e9, #w-node-_0facc765-961c-7ad5-5be5-8e747e59bef5-fcbdb9e9, #w-node-_0facc765-961c-7ad5-5be5-8e747e59bf10-fcbdb9e9, #w-node-_8451cd72-af71-5c7c-c639-3d516523891c-90905d57, #w-node-bb9da61d-008e-0000-c8d0-35f132b142be-90905d57, #w-node-caacd820-9fe5-1ddd-77a7-99cde25e1199-90905d57, #w-node-_52a4084a-baf7-2953-cbca-09ab1909739c-90905d57, #w-node-_2f1757b4-f9a2-95b3-7368-71a2a4d63dc3-90905d57, #w-node-f330c5c1-ccb6-fc20-c03d-3d1dba886217-90905d57, #w-node-_303cd258-6c61-3efe-f86e-27e7205f5913-90905d57, #w-node-_10b5fbfc-879e-47ca-c66a-1ddb02cca99c-90905d57, #w-node-_969c582b-6e3d-31b8-3d6c-ed17b3555e1b-90905d57, #w-node-f16a2d93-371a-a177-c4f1-f76b5b78f764-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af8b5-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af8d0-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af8eb-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af906-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af921-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af93c-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af957-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af972-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af98d-90905d57, #w-node-_2d1e573c-d2bf-f5f0-9f0d-e070ee4af9a8-90905d57 {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -8828,7 +12438,7 @@ figcaption {
     align-self: auto;
   }
 
-  #w-node-_184bc8a8-eeb8-bcb1-a89b-3f0de9ae8a08-b9b93bdc, #w-node-_583557a1-dabe-5389-4fea-dd19dd205fb8-b9b93c70 {
+  #w-node-_3f03e410-4c35-0f77-315c-47aaf68efcba-f68efcb5, #w-node-f607baa3-0ab0-5e79-58ad-c2ef7a71b2d1-7a71b2cc, #w-node-_583557a1-dabe-5389-4fea-dd19dd205fb8-b9b93c70 {
     justify-self: start;
   }
 
